@@ -1,0 +1,2 @@
+# Integrate Bootstrap template
+
